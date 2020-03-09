@@ -1,0 +1,23 @@
+Eagle/Cach/Guide.txt
+
+The cash folder is the curent active Eagle Caches
+	The image used on the cach page will be in the cach images folder
+
+The home page is well the home page
+	images on the home page will be on the image folder for the home page
+
+Adding Eagle scouts latter on
+
+Cach Page
+	First get the apropriate template for a project with out a geocash or not. simply copy the folder over to the
+	Eagle cash folder and rename the folder cach #. open up the cash # folder and open the html document and fill in the 
+	information and make the links work etc and copy the picture to that caches images folder save and you are done.
+
+
+Home Page
+	To add scouts to the home page go in to the zfor adding scouts latter on folder under home page in the txt document
+	you will have a template that you just need to copy and paste into the home page where it says
+	 "<!--IN THIS SECTION ADD MORE SQUARES AND IT WILL WORK AND LOOK CONSISTANT -->". Make sure it links 
+	and put photos for it in the image folder for the home page and you are done.
+
+It is fairly simmple given the right information Good luck and have fun.

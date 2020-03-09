@@ -1,0 +1,73 @@
+<br>
+		<div class="container">
+      <div class="row text-center">
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="images/CAP.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Michael See</h5>
+              <p class="card-text">Earned rank of Eagle in 1996<br>Troop 206</p>
+              <a href="https://www.google.com/maps/place/46%C2%B018'00.8%22N+119%C2%B018'07.3%22W/@46.3002219,-119.3025772,200m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d46.3002214!4d-119.3020299" class="btn btn-primary">Cordinates</a>
+				<a href="../Cach 1/Cach 1.html" class="btn btn-primary">More Info</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="images/calab place.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Caleb Thomas</h5>
+              <p class="card-text">Earned rank of Eagle in 2016<br>Troop 855/190</p>
+              <a href="https://www.google.com/maps/place/45%C2%B029'35.8%22N+122%C2%B056'05.3%22W/@45.4932694,-122.9348056,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d45.4932694!4d-122.9348056" class="btn btn-primary">Cordinates</a>
+				<a href="../Cach 2/Cach 2.html" class="btn btn-primary">More Info</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="images/John Pro.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">John Lindquist</h5>
+              <p class="card-text">Earned rank of Eagle in 2020<br>Troop 190</p>
+              <a href="https://www.google.com/maps/place/Tri-Cities+Steelband+Association+(TCSBA)+Studio/@46.299649,-119.302104,15z/data=!4m5!3m4!1s0x0:0xf2bfdccc997c37af!8m2!3d46.299649!4d-119.302104" class="btn btn-primary">Cordinates</a>
+				<a href="../Cach 3/Cach 3.html" class="btn btn-primary">More Info</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center mt-4">
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="images/Nick P home P.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Nick Powers</h5>
+              <p class="card-text">Earned rank of Eagle in 2017<br>Troop 168</p>
+              <a href="https://www.google.com/maps/place/St+Joseph+Catholic+Church/@46.2043883,-119.1277688,15z/data=!4m5!3m4!1s0x0:0xc32d6c09c173495a!8m2!3d46.2043883!4d-119.1277688" class="btn btn-primary">Cordinates</a>
+				<a href="../Cach 4/Cach 4.html" class="btn btn-primary">More Info</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="images/landscape.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Colton Glasgow</h5>
+              <p class="card-text">Earned rank of Eagle in 2017<br>Troop 190</p>
+              <a href="https://www.google.com/maps/place/46%C2%B014'14.1%22N+119%C2%B018'26.9%22W/@46.2376144,-119.3100911,16.75z/data=!4m5!3m4!1s0x0:0x0!8m2!3d46.2372535!4d-119.307473" class="btn btn-primary">Cordinates</a>
+				<a href="../Cach 5/Cach 5.html" class="btn btn-primary">More Info</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Eagle 6</h5>
+              <p class="card-text">Earned rank of Eagle in XXXX<br>Troop xxx</p>
+              <a href="#" class="btn btn-primary">Cordinates</a>
+				<a href="#" class="btn btn-primary">More Info</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
